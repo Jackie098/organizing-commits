@@ -35,38 +35,7 @@ Technologies used in the project.
   The most visual dependency of all. It guides us through a **visual menu** to specify all the information correctly and in a standardized way.
   **https://github.com/commitizen/cz-cli**
 
-<<<<<<< HEAD
-## How to use
- 
-  **1º** When the customer clicks the *support* button. The following will appear:  
-  ![Template inicial - cliente](https://github.com/Jackie098/nlw05-node/blob/main/images-readme/client_1.png)
-
-  **2º** When inserting the message and your e-mail (identification), the system will initiate a connection via socket and wait for an administrator to respond.  
-  ![Esperando atendimento](https://github.com/Jackie098/nlw05-node/blob/main/images-readme/client_02.png)
-
-  **3º** On the administrator page, a list of all users waiting to be serviced will be displayed.  
-  ![Lista de clientes em espera](https://github.com/Jackie098/nlw05-node/blob/main/images-readme/admin_01.png)
-
-  **4º** Clicking on a button will open a chat and the button will disappear.  
-  ![Chat com cliente](https://github.com/Jackie098/nlw05-node/blob/main/images-readme/admin_02.png)
-
- 
-## Updates
- 
-  - Suggestions: 
-    - In chat, function to delete message sending and/or edit it.
- 
- 
-## Links
- 
-  - Repository: https://github.com/Jackie098/nlw05-node
-    - In case of doubts or suggestions, feel free to contact and/or request **pull requests**.
- 
- 
-## Creators
-=======
 ## How to install
-
   #### Husky
   **1º** Let's start by installing husky as a development dependency:
   ```shell
@@ -232,6 +201,5 @@ Technologies used in the project.
  
  
 ## Creator of tutorial
->>>>>>> check
  
 * **Carlos Augusto**: (https://github.com/Jackie098)
