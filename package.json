@@ -18,7 +18,11 @@
   },
   "config": {
     "commitizen": {
+<<<<<<< HEAD
       "path": "./node_modules/cz-emoji"
+=======
+      "path": "./node_modules/cz-emoji-conventional"
+>>>>>>> check
     }
   }
 }
